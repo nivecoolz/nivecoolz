@@ -1,6 +1,6 @@
 # Hi, I'm Nivetha Thangaraj 👋🏾 🧑🏾‍💻
 
-<img src="https://raw.githubusercontent.com/nivecoolz/nivecoolz/main/gh-header-image.png" alt="banner that says Nivetha Thangaraj - Full Stack Developer, Cloud Enthusiast, and Tech Innovator">
+<img src="https://github.com/nivecoolz/nivecoolz/blob/main/Pink%20Modern%20Abstract%20Watercolor%20Zoom%20Profile%20Cover.png" alt="banner that says Nivetha Thangaraj - Full Stack Developer, Cloud Enthusiast, and Tech Innovator">
 I'm an experienced Full Stack Software Engineer with over 3 years of expertise in API integrations, cloud computing, and process automation. I am passionate about building scalable and efficient solutions that simplify processes and empower users. Some technologies I enjoy working with include **C#**, **.NET Core**, **Azure**, and **ReactJS**. Currently pursuing my **Master of Science in Information Systems** at The University of Texas at Arlington, I continue to explore innovative tools and technologies to make an impact in the tech world.
 
 ---
