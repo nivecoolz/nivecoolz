@@ -104,8 +104,6 @@ Full Stack Software Engineer and ML Engineering Intern with 3+ years of experien
 
 ---
 
----
-
 ## 🏆 Certifications
 - **Microsoft AZ-900:** Microsoft Azure Fundamentals  
 - **Microsoft PL-900:** Microsoft Power Platform Fundamentals  
