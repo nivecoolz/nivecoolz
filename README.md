@@ -1,8 +1,7 @@
 # Hi, I'm Nivetha Thangaraj 👋🏾 🧑🏾‍💻
 
 <img src="https://github.com/nivecoolz/nivecoolz/blob/main/Pink%20Modern%20Abstract%20Watercolor%20Zoom%20Profile%20Cover.png" alt="banner that says Nivetha Thangaraj - Full Stack Developer, Cloud Enthusiast, and Tech Innovator">
-I'm an experienced Full Stack Software Engineer with over 3 years of expertise in API integrations, cloud computing, and process automation. I am passionate about building scalable and efficient solutions that simplify processes and empower users. Some technologies I enjoy working with include **C#**, **.NET Core**, **Azure**, and **ReactJS**. Currently pursuing my **Master of Science in Information Systems** at The University of Texas at Arlington, I continue to explore innovative tools and technologies to make an impact in the tech world.
-
+Full Stack Software Engineer and ML Engineering Intern with 3+ years of experience designing and developing scalable, fault-tolerant distributed systems and ML-powered tools across cloud-native environments. Proven track record of shipping production-grade APIs and microservices using **C#**, **.NET Core**, **Python**, and **AKS**, with strong engineering practices spanning system design, testing, deployment, and operational excellence. 
 ---
 
 ## 🌟 Key Highlights
@@ -24,50 +23,86 @@ I'm an experienced Full Stack Software Engineer with over 3 years of expertise i
 
 ## 💼 Professional Experience
 
-### **Software Engineer Analyst**  
-**Accenture, Chennai, India**  
-_Aug 2021 – Aug 2023_
-- Integrated the Accenture Recruitment Application with Workday, streamlining internal hiring for **10,000+ employees** and reducing onboarding delays.
-- Optimized API performance with techniques like payload compression, connection pooling, and caching, achieving a **30% reduction in response time**.
-- Migrated Angular framework (v7 to v13), reducing page load time by **40%** and boosting security and maintainability.
-- Collaborated with Business Analyst teams to create **20+ complex Reactive Forms** using Angular, improving form validation and user interaction efficiency by **50%**.
 
-### **Software Engineering Associate**  
-**Accenture, Chennai, India**  
-_Aug 2020 – Jul 2021_
-- Designed and implemented RESTful APIs for Workday integration, automating job requisitions and onboarding, reducing manual effort by **40%**.
-- Developed and maintained microservices architecture, reducing system downtime by **40%** and ensuring scalability for **10,000+ employees**.
-- Implemented **OAuth** and **JWT authentication**, enhancing security by reducing unauthorized access incidents by **80%**.
-
-### **Graduate Teaching Assistant**  
-**The University of Texas at Arlington, Texas, US**  
-_Jan 2024 – Present_
-- Facilitated discussion sessions for undergraduate courses, improving average student exam scores by **15%**.
-- Developed and graded assignments for over **100 students**, providing constructive feedback.
+## **Policy Sage** — *AI/ML Data Engineer*  
+*Texas, US | Jun 2025 – Present*  
+- Architected scalable data pipelines to extract, transform, and load (ETL) legislative data from structured and unstructured sources (e.g., Arizona Legislature), contributing to an AI-powered policy knowledge graph.  
+- Developed Python-based tools for automated metadata extraction, fact validation, and real-time bill status tracking—supporting ontology generation and knowledge enrichment.  
+- Engineered ML-assisted preprocessing modules to clean and structure noisy legislative text data for downstream LLM tasks such as summarization, entity linking, and sponsor classification.  
+- Designed and maintained modular, reproducible data workflows using Pandas and BeautifulSoup, enabling experimentation and batch processing of 100,000+ bill entries with >95% accuracy.  
+- Improved parsing accuracy by 40% through robust ETL pipeline optimization in Python.  
 
 ---
 
-## 📚 Education
-- **Master of Science in Information Systems**  
-  The University of Texas at Arlington, Texas, US (Aug 2023 – May 2025) | **GPA: 3.8**
-- **Master of Business Administration in Project Management**  
-  Bharathiar University, Coimbatore, India (Aug 2021 – May 2023)
-- **Bachelor of Engineering in Electronics and Communications Engineering**  
-  Anna University, Chennai, India (Aug 2016 – May 2020)
+## **University of Texas at Arlington** — *Research Engineer*  
+*Texas, US | Jan 2025 – May 2025*  
+- Developed a Python-based web crawler to extract esports data from esportsearnings.com, collecting 100,000+ match records, player stats, and team info.  
+- Created scalable scraping workflows handling complex HTML structures, pagination, and dynamic content.  
+- Leveraged ChatGPT to optimize regex patterns and crawling logic, reducing extraction errors by 30% and accelerating development time by 25%.  
+- Built automated data cleaning and transformation pipelines with Pandas, achieving 95%+ data accuracy.  
 
 ---
 
-## 🌟 Projects
-### [Intelligent Resume Filtering Tool for Recruiters](https://github.com/nivecoolz/resume-filtering-tool)  
-**Python, NLP, Machine Learning**  
-- Built a talent-matching system using Python, NLP, and ML techniques, reducing manual screening time and improving hiring accuracy.
-- Achieved a **30–40% improvement in relevance scoring** using TF-IDF, Word2Vec, and GloVe embeddings.
-- Integrated GPT-based NLP models for contextual skill-based matching, enhancing recruiter decision-making efficiency.
+## **Graduate Teaching Assistant** — *University of Texas at Arlington*  
+- Led discussion sessions, improving average exam scores by 15%.  
+- Designed and graded assignments for 200+ students with timely feedback.  
 
-### [SEAR Lab Website](https://github.com/nivecoolz/sear-lab-website)  
-**Hugo, AngularJS**  
-- Developed a research-driven website with dynamic content management and intuitive navigation.
-- Improved visibility and engagement by **30%**, increasing reach to **200+ students and faculty**.
+---
+
+## **Accenture** — *Software Engineering Analyst*  
+*Texas, US | Jan 2024 – Dec 2024*  
+*Chennai, India | Aug 2021 – Jul 2023*  
+- Integrated Accenture Recruitment Application with Workday for 10,000+ employees using Kubernetes and Kafka Streams, reducing data processing latency by 40%.  
+- Optimized API performance with payload compression, connection pooling, and caching—cutting response time by 30%.  
+- Migrated Angular from v7 to v13, improving performance, security, and load times by 40%.  
+- Built 20+ complex Angular Reactive Forms, enhancing validation and UX by 50%.  
+
+---
+
+## **Accenture** — *Software Engineering Associate*  
+*Chennai, India | Aug 2020 – Jul 2021*  
+- Designed and implemented RESTful APIs to integrate recruitment workflows with Workday, reducing manual effort by 40%.  
+- Developed microservices architecture, cutting downtime by 40% and improving scalability.  
+- Created JSON-based API structures for seamless Workday integration, reducing data errors by 30%.  
+- Implemented OAuth and JWT authentication, reducing unauthorized access incidents by 80%.  
+
+---
+
+## **Air India** — *Networking Intern*  
+*Chennai, India | Jan 2020 – May 2020*  
+- Supported network diagnostics and infrastructure readiness, ensuring high reliability.  
+- Maintained 99.9% uptime for voice, video, and data services.  
+- Conducted capacity planning for 100+ devices, reducing congestion by 15%.  
+
+---
+
+# 🏆 Hackathons & Achievements
+
+### **Winner – Data Doomsday Analytics Challenge** *(UTA Datathon 2025)*  
+**Tech:** Python, Machine Learning, Regression  
+- Built predictive models using INFORM and EM-DAT datasets to forecast 2025 disaster frequency.  
+- Applied feature selection, clustering, and correlation analysis to identify global risk trends.  
+- Created an interactive dashboard and gamified visualization for non-technical audiences.  
+
+---
+
+### **Top Submission – EsportsBot AI (Model Mash Challenge)** *(UTA Datathon 2025)*  
+**Tech:** Google Gemini 2.0 Flash, Esports Earnings API, Streamlit  
+- Built a real-time chatbot to fetch and summarize esports player, tournament, and team data.  
+- Developed a Streamlit web app with NLP-powered query handling and dynamic CSV mapping.  
+- Deployed a live interactive demo with secure API key management and intuitive UI.  
+
+---
+
+# 📂 Projects
+
+### **Intelligent Resume Filtering Tool for Recruiters**  
+**Tech:** Python, NLP, Machine Learning, Logistic Regression, SVM, Random Forest  
+- Automated candidate-job fit analysis using TF-IDF, Word2Vec, and GloVe embeddings.  
+- Improved relevance scoring by 30–40% with advanced feature extraction and ML models.  
+- Integrated GPT-based NLP for contextual skill matching, enhancing hiring accuracy.  
+
+---
 
 ---
 
@@ -85,6 +120,5 @@ _Jan 2024 – Present_
 
 ## 🌎 Find Me Around the Web
 - 💼 [LinkedIn](https://www.linkedin.com/in/nivetha-thangaraj)  
-- 📹 [Twitch](https://www.twitch.tv/nivecoolz)  
-- 🌐 [Portfolio](https://nivecoolz.dev)  
+- 📹 [Medium](https://www.twitch.tv/nivecoolz](https://medium.com/@nivesep26) 
 - 💻 [GitHub](https://github.com/nivecoolz)
