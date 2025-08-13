@@ -119,4 +119,3 @@ Full Stack Software Engineer and ML Engineering Intern with 3+ years of experien
 ## 🌎 Find Me Around the Web
 - 💼 [LinkedIn](https://www.linkedin.com/in/nivetha-thangaraj)  
 - 📹 [Medium](https://medium.com/@nivesep26) 
-- 💻 [GitHub](https://github.com/nivecoolz)
