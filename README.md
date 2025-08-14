@@ -117,6 +117,20 @@ Full Stack Software Engineer and ML Engineering Intern with 3+ years of experien
 ---
 
 ## 🌎 Find Me Around the Web
-- 💼 [LinkedIn](https://www.linkedin.com/in/nivetha-thangaraj)  
+- 💼 [LinkedIn]()  
 - 📹 [Medium](https://medium.com/@nivesep26)
-- 📧 [Email](mailto:nivethanraj2609@gmail.com)
+- 📧 [Email]()
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:nivethanraj2609@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nivetha-thangaraj">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@nivesep26">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+</p>
+<br>
